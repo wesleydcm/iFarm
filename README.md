@@ -8,6 +8,6 @@
 
 ### Tecnologias aplicadas:
 
-- [**_TypeScript_**](https://www.typescriptlang.org/){:target="_blank"};
-- [**_React_**](https://reactjs.org/){:target="_blank"} e diversas outras libs auxiliares;
-- Versionamento via [**_Git_**](https://git-scm.com/){:target="_blank"};
+- Linguagem de programação <a href="https://www.typescriptlang.org/" target="_blank">**_TypeScript_**</a>;
+- Bibliotecas <a href="https://react.dev/" target="_blank"><strong><em>React</em></strong></a> e diversas outras auxiliares;
+- Versionamento de código via <a href="https://git-scm.com/" target="_blank"><strong><em>Git</em></strong></a>;
