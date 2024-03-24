@@ -1,4 +1,4 @@
-# iRoça App (V1.0)
+# iRoça
 
 ### _Status do Projeto:_ 🚧 **Manutenção...** 🚧
 
@@ -8,6 +8,6 @@
 
 ### Tecnologias aplicadas:
 
-- Linguagem de programação <a href="https://www.typescriptlang.org/" target="_blank">**_TypeScript_**</a>;
-- Bibliotecas <a href="https://react.dev/" target="_blank"><strong><em>React</em></strong></a> e diversas outras auxiliares;
-- Versionamento de código via <a href="https://git-scm.com/" target="_blank"><strong><em>Git</em></strong></a>;
+- Linguagem de programação [**TypeScript**](https://www.typescriptlang.org/);
+- Bibliotecas [**React**](https://react.dev/) e diversas outras auxiliares;
+- Versionamento de código via [**Git**](https://git-scm.com/");
