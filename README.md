@@ -1,51 +1,13 @@
 # iRoça App (V1.0)
 
-### _Status do Projeto:_ 🚧 **Aguardando um Back-End real...** 🚧
+### _Status do Projeto:_ 🚧 **Manutenção...** 🚧
 
----
+### Descrição:
+- O **_iRoça_** é um aplicativo destinado permitir que o pequeno produtor rural se cadastre e exponha todos os seus produtos, com os respectivos preços e quantidades disponíveis no momento, ganhando mais visibilidade aumentando sua capacidade de negociação e venda.
 
----
-
-### **Este projeto é uma idealização do Wesley da Costa, adotada como projeto de fim do módulo de **_#frontEnd_**, do curso de **_#fullStack_\*\* da [Kenzie Academy Brasil](https://kenzie.com.br/).
-
-### Apresentação:
-
-- ### Descrição:
-  - O **_iRoça_** é um aplicativo destinado permitir que o pequeno produtor rural se cadastre e exponha todos os seus produtos, com os respectivos preços e quantidades disponíveis no momento, ganhando mais visibilidade aumentando sua capacidade de negociação e venda.
-  - Mais detalhes neste [**_PDF_**](https://drive.google.com/file/d/1SvS6R2T0su4XplLWAki5sIecs5QOaOou/view?usp=sharing)
 
 ### Tecnologias aplicadas:
 
-- Linguagem aplicada: [**_TypeScript_**](https://www.typescriptlang.org/) ;
-- Versionamento via [**_Git_**](https://git-scm.com/) ;
-- Conhecimentos intermediário em [**_React_**](https://reactjs.org/) e diversas outras libs auxiliares; e
-- Autenticação via _"fakeAPI"_ ([**_JSON Server_**](https://www.npmjs.com/package/json-server) + [**_JSON Server Auth_**](https://www.npmjs.com/package/json-server-auth)).
-
-### Demonstração:
-
-Vide vídeo apresentação no seguinte [link]().
-
----
-
----
-
-### Team:
-
-<a href="https://www.linkedin.com/in/marconemm/">
- <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/15804964?s=400&amp;u=60f45399d863c1410217fc6666bc628c43f554dd&amp;v=4" width="100px;" alt="Marcone Melo"/>
- <br />
- <sub><b>Marcone Melo</b></sub></a>
-
-[![GitLab Badge](https://img.shields.io/badge/-Marcone_Melo-black?style=plastic&logo=GitLab&logoColor=yellow&link=https://gitlab.com/marconemm)](https://gitlab.com/marconemm)
-[![GitHub Badge](https://img.shields.io/badge/-Marcone_Melo-black?style=plastic&logo=GitHub&logoColor=white&link=https://github.com/marconemm)](https://github.com/marconemm)
-[![Linkedin Badge](https://img.shields.io/badge/-Marcone_Melo-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marconemm/)](https://www.linkedin.com/in/marconemm/)
-[![Yahoo Badge](https://img.shields.io/badge/-marconemendonca@ymail.com-c14438?style=plastic&logo=Yahoo!&logoColor=white&link=mailto:marconemendonca@ymail.com)](mailto:marconemendonca@ymail.com)
-
-<a href="https://www.linkedin.com/in/wesleydcm/">
- <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/71963380" width="100px;" alt="Wesley da Costa"/>
- <br />
- <sub><b>Wesley da Costa</b></sub></a>
-
-[![GitLab Badge](https://img.shields.io/badge/-Wesley_da_Costa-black?style=plastic&logo=GitLab&logoColor=yellow&link=https://gitlab.com/wesleydcm)](https://gitlab.com/wesleydcm)
-[![GitHub Badge](https://img.shields.io/badge/-Wesley_da_Costa-black?style=plastic&logo=GitHub&logoColor=white&link=https://github.com/wesleydcm)](https://github.com/wesleydcm)
-[![Linkedin Badge](https://img.shields.io/badge/-Wesley_da_Costa-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wesleydcm/)](https://www.linkedin.com/in/wesleydcm/)
+- [**_TypeScript_**](https://www.typescriptlang.org/);
+- [**_React_**](https://reactjs.org/) e diversas outras libs auxiliares;
+- Versionamento via [**_Git_**](https://git-scm.com/);
